@@ -4,6 +4,7 @@ dev_addr: 127.0.0.1:8080
 nav:
   - Home: index.md
   - Task: task.md
+  - Practical 3.1: pract.md
   - Models: models.md
   - Urls: urls.md
   - Views: views.md
