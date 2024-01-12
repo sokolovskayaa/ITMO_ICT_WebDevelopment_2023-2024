@@ -70,3 +70,5 @@
 ![](images/task3.png)
 ![](images/task4.png)
 ![](images/task5.png)
+![](images/task6.png)
+![](images/task7.png)
